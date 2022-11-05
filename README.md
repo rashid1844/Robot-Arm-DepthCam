@@ -8,6 +8,12 @@
 2. robotiq 2F-85 gripper.
 3. Microsoft Kinect camera.
 
+<p float="left">
+  <img src="Images/irb120.png" width="400" />
+  <img src="Images/robotiq-85.png" width="300" /> 
+  <img src="Images/kinect.webp" width="300" />
+</p>
+
 #### Task details:
 1. Detect an object using an Aruco marker.
 2. Send object coordinates to the robot arm.
