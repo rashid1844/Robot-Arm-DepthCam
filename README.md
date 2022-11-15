@@ -9,9 +9,9 @@
 3. Microsoft Kinect camera.
 
 <p float="left">
-  <img src="Images/irb120.png" width="400" />
-  <img src="Images/robotiq-85.png" width="300" /> 
-  <img src="Images/kinect.webp" width="300" />
+  <img src="Images/irb120.png" width="370" />
+  <img src="Images/robotiq-85.png" width="270" /> 
+  <img src="Images/kinect.webp" width="270" />
 </p>
 
 #### Task details:
